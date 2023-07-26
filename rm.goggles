@@ -7,3 +7,4 @@
 $boost,site=en.wikipedia.org
 $discard,site=geeksforgeeks.org
 $discard,site=sparkbyexamples.com
+$discard,site=programiz.com
