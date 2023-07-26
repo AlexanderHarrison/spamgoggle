@@ -5,4 +5,5 @@
 ! avatar: #99cc99
 
 $boost,site=en.wikipedia.org
-$discard,site=geeksforgeeks.com
+$discard,site=geeksforgeeks.org
+$discard,site=sparkbyexamples.com
