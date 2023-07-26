@@ -1,0 +1,7 @@
+! name: Remove Spam
+! description: Remove SEO spam sites and the like
+! public: true
+! author: Alex Harrison
+! avatar: #99cc99
+
+$discard,site=geeksforgeeks.com
