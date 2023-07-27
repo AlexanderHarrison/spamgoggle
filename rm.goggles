@@ -5,6 +5,30 @@
 ! avatar: #99cc99
 
 $boost,site=en.wikipedia.org
+$boost,site=numpy.org/doc/
+$boost,site=docs.python.org
+
 $discard,site=geeksforgeeks.org
 $discard,site=sparkbyexamples.com
 $discard,site=programiz.com
+$discard,site=neuralnetlab.com
+$discard,site=educba.com
+$discard,site=javatpoint.com
+$discard,site=codetorial.net
+$discard,site=javatpoint.com
+$discard,site=educative.io
+$discard,site=datasciencelearner.com
+$discard,site=machinelearningmastery.com
+$discard,site=superfastpython.com
+$discard,site=python-engineer.com
+$discard,site=toptal.com
+$discard,site=sitepoint.com
+$discard,site=pythontutorial.net
+$discard,site=tutorialspoint.com
+$discard,site=sitepoint.com
+$discard,site=simplilearn.com
+$discard,site=tutorialedge.net
+$discard,site=journaldev.com
+$discard,site=towardsdatascience.com
+$discard,site=pythonguides.com
+$discard,site=sharpsightlabs.com
