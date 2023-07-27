@@ -5,6 +5,7 @@
 ! avatar: #99cc99
 
 $boost,site=en.wikipedia.org
+$boost,site=numpy.org
 $boost,site=docs.python.org
 
 $discard,site=geeksforgeeks.org
